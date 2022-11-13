@@ -1,0 +1,1 @@
+C:\Users\kryst\source\Lab02\Lab02\Lab02.csproj;x64
