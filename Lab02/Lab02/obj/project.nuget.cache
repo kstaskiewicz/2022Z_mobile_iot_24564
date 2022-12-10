@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2PkNv/Aj5kHYXE309ffgo6DS1EvJI4PxRimXojNUoC6rrJHtTxt9vU4vggSNJ2Kzx9FCELlPapbx4yHLJYFA4w==",
+  "dgSpecHash": "2pxQhMCybiOtRbSY29ClI1mhlfQmuj6kstqSTNyRobswqxlFnz/raDvUfLpq4P7UpHSL4bhgXhJgnUqfiU0AMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kryst\\source\\Lab02\\Lab02\\Lab02.csproj",
+  "projectFilePath": "C:\\Users\\kryst\\OneDrive\\Pulpit\\Studia\\2022Z_mobile_iot_24564\\Lab02\\Lab02\\Lab02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kryst\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\kryst\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",

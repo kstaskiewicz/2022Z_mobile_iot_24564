@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Alignment"
+             x:Class="Alignment.MainPage">
+
+    
+    <VerticalStackLayout x:Name="stack"
+        Spacing="30">
+        <BoxView Color="Silver" />
+        <BoxView Color="Blue" />
+        <BoxView Color="Gray" />
+    </VerticalStackLayout>
+
+</ContentPage>
