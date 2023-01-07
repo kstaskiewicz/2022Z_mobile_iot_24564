@@ -1,6 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 * text eol=lf
+end_of_line = lf
 
 *.jpg binary
 *.png binary
