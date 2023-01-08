@@ -1,0 +1,1 @@
+C:\Users\kryst\OneDrive\Pulpit\Lab05 - a\TipCalculator\TipCalculator.csproj;x64
